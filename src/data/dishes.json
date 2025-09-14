@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Kadhai Paneer",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "category": { "id": 11, "name": "North Indian" },
+    "description": "Paneer cubes in spicy onion gravy with capsicum and tomatoes.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772581/Dishes/foods/Kadai_Paneer_zf0rv7.jpg",
+    "ingredients": [
+      { "name": "Paneer", "qty": "300g" },
+      { "name": "Onion", "qty": "2 medium" },
+      { "name": "Capsicum", "qty": "1 medium" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Butter Chicken",
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "category": { "id": 1, "name": "North Indian" },
+    "description": "Creamy tomato-based curry with tender chicken pieces.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772580/Dishes/foods/Butter_Chicken_pl5h1a.jpg",
+    "ingredients": [
+      { "name": "Chicken", "qty": "500g" },
+      { "name": "Butter", "qty": "50g" },
+      { "name": "Tomato", "qty": "4 medium" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Veg Spring Roll",
+    "mealType": "STARTER",
+    "type": "VEG",
+    "category": { "id": 2, "name": "Chinese" },
+    "description": "Crispy spring rolls filled with mixed vegetables.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772580/Dishes/foods/Veg_Spring_Roll_kagm1b.jpg",
+    "ingredients": [
+      { "name": "Cabbage", "qty": "150g" },
+      { "name": "Carrot", "qty": "1 medium" },
+      { "name": "Spring Roll Wrapper", "qty": "8 pcs" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Brownie",
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "category": { "id": 3, "name": "Dessert" },
+    "description": "Fudgy chocolate brownie served warm with nuts.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772580/Dishes/foods/Chocolate_Brownie_yk6cfi.jpg",
+    "ingredients": [
+      { "name": "Chocolate", "qty": "200g" },
+      { "name": "Flour", "qty": "120g" },
+      { "name": "Sugar", "qty": "150g" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "French Fries",
+    "mealType": "SIDES",
+    "type": "VEG",
+    "category": { "id": 4, "name": "American" },
+    "description": "Crispy golden potato fries with salt.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772581/Dishes/foods/French_Fries_xik8wh.jpg",
+    "ingredients": [
+      { "name": "Potatoes", "qty": "500g" },
+      { "name": "Salt", "qty": "to taste" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sushi Rolls",
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "category": { "id": 5, "name": "Japanese" },
+    "description": "Rice rolls wrapped in seaweed with fresh salmon and vegetables.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772580/Dishes/foods/Sushi_Rolls_lptoin.jpg",
+    "ingredients": [
+      { "name": "Sushi Rice", "qty": "200g" },
+      { "name": "Nori Sheets", "qty": "2 pcs" },
+      { "name": "Salmon", "qty": "100g" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Falafel Wrap",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "category": { "id": 6, "name": "Middle Eastern" },
+    "description": "Crispy chickpea fritters wrapped in pita with hummus and salad.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772580/Dishes/foods/Falafel_Wrap_nfltrs.jpg",
+    "ingredients": [
+      { "name": "Chickpeas", "qty": "200g" },
+      { "name": "Pita Bread", "qty": "1 pc" },
+      { "name": "Tahini", "qty": "2 tbsp" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Margherita Pizza",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "category": { "id": 7, "name": "Italian" },
+    "description": "Classic pizza with tomato sauce, mozzarella, and basil.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772581/Dishes/foods/Margherita_Pizza_wivkts.jpg",
+    "ingredients": [
+      { "name": "Pizza Base", "qty": "1 pc" },
+      { "name": "Mozzarella", "qty": "100g" },
+      { "name": "Basil", "qty": "6 leaves" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Fish Tacos",
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "category": { "id": 8, "name": "Mexican" },
+    "description": "Grilled fish in soft tacos with fresh salsa.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772581/Dishes/foods/Fish_Tacos_nbccop.jpg",
+    "ingredients": [
+      { "name": "White Fish", "qty": "200g" },
+      { "name": "Taco Shells", "qty": "3 pcs" },
+      { "name": "Salsa", "qty": "50g" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Pad Thai",
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "category": { "id": 9, "name": "Thai" },
+    "description": "Rice noodles stir-fried with prawns, eggs, and peanuts.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772581/Dishes/foods/Pad_Thai_wjonnk.jpg",
+    "ingredients": [
+      { "name": "Rice Noodles", "qty": "150g" },
+      { "name": "Prawns", "qty": "100g" },
+      { "name": "Peanuts", "qty": "20g" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Vegetable Biryani",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "category": { "id": 10, "name": "Indian" },
+    "description": "Fragrant rice cooked with vegetables and spices.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772581/Dishes/foods/Vegetable_Biryani_mw84jm.jpg",
+    "ingredients": [
+      { "name": "Basmati Rice", "qty": "200g" },
+      { "name": "Mixed Vegetables", "qty": "150g" },
+      { "name": "Spices", "qty": "to taste" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Chicken Shawarma",
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "category": { "id": 12, "name": "Middle Eastern" },
+    "description": "Grilled spiced chicken wrapped in pita bread with garlic sauce.",
+    "image": "https://res.cloudinary.com/dco8penwb/image/upload/v1757772580/Dishes/foods/Chicken_Shawarma_evhtzz.jpg",
+    "ingredients": [
+      { "name": "Chicken", "qty": "250g" },
+      { "name": "Pita Bread", "qty": "1 pc" },
+      { "name": "Garlic Sauce", "qty": "2 tbsp" }
+    ]
+  }
+]
+

@@ -1,0 +1,21 @@
+
+.filters {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: white;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  font-weight: 600;
+}
+.toggle input {
+  width: 16px;
+  height: 16px;
+}
